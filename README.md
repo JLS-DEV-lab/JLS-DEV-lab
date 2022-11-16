@@ -2,14 +2,13 @@
 
 a full-stack developer from bavaria. I love to be creative and optimizing daily operations.
 As an open-minded person I'm always searching for new challenging projects. In my view
-open source is just great for collaboration.
+open source is just great for collaboration thats why I joined here.
 
-Learn more about me
 
-| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	|
+👉Learn more about me
+
+| [![SlyniteCloud_badge](https://user-images.githubusercontent.com/84477969/202226266-4ab5f3a4-9cb1-4f96-8258-2eca10cd038d.svg)](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	|
 |---------	|-----------	|
-
-
 
 
 <!---
