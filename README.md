@@ -7,8 +7,8 @@ open source is just great for collaboration thats why I joined here.
 
 👉Learn more about me and my projects
 
-| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	|
-|---------	|-----------	|
+| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	| [SOSA](https://sharedofficesolutions.de/) |
+|---------|-----------|-----------|
 
 
 <!---
