@@ -7,7 +7,7 @@ open source is just great for collaboration thats why I joined here.
 
 👉Learn more about me and my projects
 
-| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	| [SOSA](https://sharedofficesolutions.de/) |
+| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	| [SOSA]([https://sharedofficesolutions.de/](https://github.com/JLS-DEV-lab/Shelly-based-Heating-control)) |
 |---------|-----------|-----------|
 
 
