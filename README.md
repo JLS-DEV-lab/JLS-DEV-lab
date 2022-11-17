@@ -7,7 +7,7 @@ open source is just great for collaboration thats why I joined here.
 
 👉Learn more about me and my projects
 
-| [![SlyniteCloud_badge](https://user-images.githubusercontent.com/84477969/202226266-4ab5f3a4-9cb1-4f96-8258-2eca10cd038d.svg)](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	|
+| [Slynite](https://www.slynite.com)	| [Portfolio](https://www.luca-sterta.com) 	|
 |---------	|-----------	|
 
 
